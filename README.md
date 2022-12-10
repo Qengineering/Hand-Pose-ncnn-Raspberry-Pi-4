@@ -1,4 +1,4 @@
-# Hand-Pose-ncnn-Raspberry-Pi-4
+# Hand Pose on a Raspberry Pi
 ![output image]( https://qengineering.eu/images/HandPoseOut.jpg )
 ## Hand pose with the ncnn framework. <br/>
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)<br/><br/>
